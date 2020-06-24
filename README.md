@@ -23,10 +23,6 @@
   <a href="https://www.cnblogs.com/aobing/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
 </p>
 
-
-![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf8flovpg1j30u07l7hdx.jpg)
-
 [后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
 
 # 目录(善用Ctrl+F)
@@ -36,7 +32,7 @@
 - Java基础核心串讲
 
   - 计算机操作系统与Linux
-  - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
+  - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA) :heavy_check_mark:​
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
   - [实战！敖丙用“大白鲨”让你看见 TCP](https://mp.weixin.qq.com/s/jTDU-zxP1INTYLpGLypjXQ)
@@ -171,7 +167,7 @@
   - [数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
   - [MySql主从复制，从原理到实践！](https://mp.weixin.qq.com/s/eEWMSTAUF1H-gFBx26jujw)
   - [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://mp.weixin.qq.com/s/wr2gJGQSA8QH_lmPh1XOkw)
-  - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
+  - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug):heavy_check_mark:​
   - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
   - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
   - [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](https://mp.weixin.qq.com/s/L0XUMHInnwN9gSYGH2nzdg)
