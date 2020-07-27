@@ -40,7 +40,7 @@
   - [敖丙用近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题](https://mp.weixin.qq.com/s/rX3A_FA19n4pI9HicIEsXg)
   - [键入网址后，期间发生了什么？](https://mp.weixin.qq.com/s/I6BLwbIpfGEJnxjDcPXc1A)
   - [IP 基础知识“全家桶”，敖丙45 张图一套带走你](https://mp.weixin.qq.com/s/p9oA9YTZLoXVooUOSNQCMg)
-  - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了](https://mp.weixin.qq.com/s/HjOUsKn8eLfDogbBX3hPnA)
+  - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了](https://mp.weixin.qq.com/s/HjOUsKn8eLfDogbBX3hPnA):heavy_check_mark:
   - [敖丙说了这么多次 I/O，可你知道其中的原理么？](https://mp.weixin.qq.com/s/TJghsMRqkzBIsoHjGiEwFw)
   - [敖丙听说你 ping 用的很 6 ？给我图解一下 ping 的工作原理！](https://mp.weixin.qq.com/s/3KF0IxLum8EOtcF0ZNIiPA)
   - [硬核！30 张图解 HTTP 常见的面试题](https://mp.weixin.qq.com/s/amOya0M00LwpL5kCS96Y6w)
